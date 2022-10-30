@@ -1,12 +1,12 @@
 /* 
- * Program takes accepts a command line argument for the size of the 
+ * Program accepts a command line argument for the size of the 
  *   arrays.
- * If size is not passed as argument then 4 is default and the arrays will
+ * If size is not passed as argument then 4 is default and the arrays will be
  *   logged to console to check the algorithms do what they are supposed to
  * The following functions traverse the arrays and change the values
  *   from 0 to 1
  * 
- * OBSERVED
+ * OBSERVATIONS
  *  With recurseTraverse SIZE is limited by the array initializations on lines 20 & 21
  *  With iterativeTraverse SIZE is limited by iterativeTraverse
  */
